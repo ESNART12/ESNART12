@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Esnart P. Mache</h1>
+<h1 align="center">Hey 👋 I'm Esnart Mache</h1>
 
 <p align="center">
 A software engineer with a passion for Information Technology and Computer Science. I build web applications and keep the systems behind them running. You can find out more about me and see my featured projects on my <a href="https://esnart12.github.io">portfolio website</a>.
